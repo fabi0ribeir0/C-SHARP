@@ -1,0 +1,8 @@
+C:\Users\Fabio\Documents\Estudos\C SHARP\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+C:\Users\Fabio\Documents\Estudos\C SHARP\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\Users\Fabio\Documents\Estudos\C SHARP\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\Users\Fabio\Documents\Estudos\C SHARP\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\Users\Fabio\Documents\Estudos\C SHARP\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb

@@ -1,0 +1,8 @@
+C:\Users\Fabio\Documents\Estudos\C SHARP\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.exe.config
+C:\Users\Fabio\Documents\Estudos\C SHARP\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.exe
+C:\Users\Fabio\Documents\Estudos\C SHARP\EstruturasRepeticao\EstruturasRepeticao\bin\Debug\EstruturasRepeticao.pdb
+C:\Users\Fabio\Documents\Estudos\C SHARP\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.exe
+C:\Users\Fabio\Documents\Estudos\C SHARP\EstruturasRepeticao\EstruturasRepeticao\obj\Debug\EstruturasRepeticao.pdb

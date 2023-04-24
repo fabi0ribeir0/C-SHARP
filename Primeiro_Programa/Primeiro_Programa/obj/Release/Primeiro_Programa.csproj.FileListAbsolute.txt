@@ -1,0 +1,8 @@
+C:\Users\Fabio\Documents\Estudos\C SHARP\Primeiro_Programa\Primeiro_Programa\bin\Release\Primeiro_Programa.exe.config
+C:\Users\Fabio\Documents\Estudos\C SHARP\Primeiro_Programa\Primeiro_Programa\bin\Release\Primeiro_Programa.exe
+C:\Users\Fabio\Documents\Estudos\C SHARP\Primeiro_Programa\Primeiro_Programa\bin\Release\Primeiro_Programa.pdb
+C:\Users\Fabio\Documents\Estudos\C SHARP\Primeiro_Programa\Primeiro_Programa\obj\Release\Primeiro_Programa.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\Primeiro_Programa\Primeiro_Programa\obj\Release\Primeiro_Programa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\Primeiro_Programa\Primeiro_Programa\obj\Release\Primeiro_Programa.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\Primeiro_Programa\Primeiro_Programa\obj\Release\Primeiro_Programa.exe
+C:\Users\Fabio\Documents\Estudos\C SHARP\Primeiro_Programa\Primeiro_Programa\obj\Release\Primeiro_Programa.pdb

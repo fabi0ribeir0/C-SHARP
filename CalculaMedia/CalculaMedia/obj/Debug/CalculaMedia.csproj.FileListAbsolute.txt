@@ -1,0 +1,8 @@
+C:\Users\Fabio\Documents\Estudos\C SHARP\CalculaMedia\CalculaMedia\bin\Debug\CalculaMedia.exe.config
+C:\Users\Fabio\Documents\Estudos\C SHARP\CalculaMedia\CalculaMedia\bin\Debug\CalculaMedia.exe
+C:\Users\Fabio\Documents\Estudos\C SHARP\CalculaMedia\CalculaMedia\bin\Debug\CalculaMedia.pdb
+C:\Users\Fabio\Documents\Estudos\C SHARP\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C SHARP\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.exe
+C:\Users\Fabio\Documents\Estudos\C SHARP\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.pdb
