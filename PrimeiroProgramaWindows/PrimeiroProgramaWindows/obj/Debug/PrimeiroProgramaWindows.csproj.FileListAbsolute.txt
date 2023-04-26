@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\bin\Debug\PrimeiroProgramaWindows.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\bin\Debug\PrimeiroProgramaWindows.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\bin\Debug\PrimeiroProgramaWindows.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\obj\Debug\PrimeiroProgramaWindows.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\obj\Debug\PrimeiroProgramaWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\obj\Debug\PrimeiroProgramaWindows.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\obj\Debug\PrimeiroProgramaWindows.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\obj\Debug\PrimeiroProgramaWindows.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\obj\Debug\PrimeiroProgramaWindows.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\obj\Debug\PrimeiroProgramaWindows.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrimeiroProgramaWindows\PrimeiroProgramaWindows\obj\Debug\PrimeiroProgramaWindows.pdb
