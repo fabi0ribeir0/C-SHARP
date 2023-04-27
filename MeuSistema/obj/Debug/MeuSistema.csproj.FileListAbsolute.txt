@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\bin\Debug\MeuSistema.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\bin\Debug\MeuSistema.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\bin\Debug\MeuSistema.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\obj\Debug\MeuSistema.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\obj\Debug\MeuSistema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\obj\Debug\MeuSistema.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\obj\Debug\MeuSistema.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\obj\Debug\MeuSistema.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\obj\Debug\MeuSistema.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\obj\Debug\MeuSistema.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MeuSistema\obj\Debug\MeuSistema.pdb

@@ -1,0 +1,8 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MinhaAplicacao\bin\Debug\MinhaAplicacao.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MinhaAplicacao\bin\Debug\MinhaAplicacao.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MinhaAplicacao\bin\Debug\MinhaAplicacao.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MinhaAplicacao\obj\Debug\MinhaAplicacao.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MinhaAplicacao\obj\Debug\MinhaAplicacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MinhaAplicacao\obj\Debug\MinhaAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MinhaAplicacao\obj\Debug\MinhaAplicacao.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MinhaAplicacao\obj\Debug\MinhaAplicacao.pdb

@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\bin\Debug\Controles.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\bin\Debug\Controles.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\bin\Debug\Controles.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\obj\Debug\Controles.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\obj\Debug\Controles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\obj\Debug\Controles.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\obj\Debug\Controles.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Controles\Controles\obj\Debug\Controles.pdb
