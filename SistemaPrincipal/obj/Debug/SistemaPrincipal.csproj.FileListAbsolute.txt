@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\bin\Debug\SistemaPrincipal.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\bin\Debug\SistemaPrincipal.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\bin\Debug\SistemaPrincipal.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\obj\Debug\SistemaPrincipal.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\obj\Debug\SistemaPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\obj\Debug\SistemaPrincipal.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\obj\Debug\SistemaPrincipal.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\obj\Debug\SistemaPrincipal.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\obj\Debug\SistemaPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\obj\Debug\SistemaPrincipal.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SistemaPrincipal\obj\Debug\SistemaPrincipal.pdb
