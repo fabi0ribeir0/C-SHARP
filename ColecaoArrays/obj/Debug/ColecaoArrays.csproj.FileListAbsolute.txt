@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\bin\Debug\ColecaoArrays.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\bin\Debug\ColecaoArrays.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\bin\Debug\ColecaoArrays.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\obj\Debug\ColecaoArrays.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\obj\Debug\ColecaoArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\obj\Debug\ColecaoArrays.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\obj\Debug\ColecaoArrays.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\obj\Debug\ColecaoArrays.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\obj\Debug\ColecaoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\obj\Debug\ColecaoArrays.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ColecaoArrays\obj\Debug\ColecaoArrays.pdb
