@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\bin\Debug\UsandoClasses.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\bin\Debug\UsandoClasses.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\bin\Debug\UsandoClasses.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\obj\Debug\UsandoClasses.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\obj\Debug\UsandoClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\obj\Debug\UsandoClasses.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\obj\Debug\UsandoClasses.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\obj\Debug\UsandoClasses.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\obj\Debug\UsandoClasses.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\obj\Debug\UsandoClasses.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\UsandoClasses\obj\Debug\UsandoClasses.pdb
