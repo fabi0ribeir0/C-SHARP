@@ -36,6 +36,7 @@
             this.numUD2 = new System.Windows.Forms.NumericUpDown();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.btnFor2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.numUD1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numUD2)).BeginInit();
             this.SuspendLayout();
@@ -99,18 +100,26 @@
             // numUD1
             // 
             this.numUD1.Location = new System.Drawing.Point(57, 389);
+            this.numUD1.Maximum = new decimal(new int[] {
+            6,
+            0,
+            0,
+            0});
             this.numUD1.Name = "numUD1";
             this.numUD1.Size = new System.Drawing.Size(32, 20);
             this.numUD1.TabIndex = 6;
-            this.numUD1.Maximum = 6;
             // 
             // numUD2
             // 
             this.numUD2.Location = new System.Drawing.Point(152, 389);
+            this.numUD2.Maximum = new decimal(new int[] {
+            6,
+            0,
+            0,
+            0});
             this.numUD2.Name = "numUD2";
             this.numUD2.Size = new System.Drawing.Size(32, 20);
             this.numUD2.TabIndex = 7;
-            this.numUD2.Maximum = 6;
             // 
             // label1
             // 
@@ -130,11 +139,28 @@
             this.label2.TabIndex = 9;
             this.label2.Text = "Indice2";
             // 
+            // btnFor2
+            // 
+            this.btnFor2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnFor2.FlatAppearance.BorderColor = System.Drawing.Color.Blue;
+            this.btnFor2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Lime;
+            this.btnFor2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnFor2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnFor2.Font = new System.Drawing.Font("Arial Black", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFor2.Location = new System.Drawing.Point(195, 321);
+            this.btnFor2.Name = "btnFor2";
+            this.btnFor2.Size = new System.Drawing.Size(75, 25);
+            this.btnFor2.TabIndex = 10;
+            this.btnFor2.Text = "FOR2";
+            this.btnFor2.UseVisualStyleBackColor = true;
+            this.btnFor2.Click += new System.EventHandler(this.btnFor2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(294, 424);
+            this.Controls.Add(this.btnFor2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.numUD2);
@@ -163,6 +189,7 @@
         private System.Windows.Forms.NumericUpDown numUD2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btnFor2;
     }
 }
 

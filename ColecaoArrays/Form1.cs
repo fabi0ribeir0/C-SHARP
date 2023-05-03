@@ -66,5 +66,16 @@ namespace ColecaoArrays
             lstQuadro.Items.Add($"Acima o resultado da soma entre {valores[valor1]} e {valores[valor2]} ");
 
         }
+
+        private void btnFor2_Click(object sender, EventArgs e)
+        {
+            int[] valores = new int[] { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 300, 555, 05498, 987 ,5484, 489, 2121, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 300, 555, 05498, 987, 5484, 489, 2121, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 300, 555, 05498, 987, 5484, 489, 2121};
+
+            for (int i = 0; i < valores.Length; i++)
+            {
+                lstQuadro.Items.Add(valores[i]);
+            }
+        }
+
     }
 }
