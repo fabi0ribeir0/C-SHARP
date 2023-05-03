@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\bin\Debug\LoopFor.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\bin\Debug\LoopFor.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\bin\Debug\LoopFor.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\obj\Debug\LoopFor.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\obj\Debug\LoopFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\obj\Debug\LoopFor.Loop.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\obj\Debug\LoopFor.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\obj\Debug\LoopFor.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\obj\Debug\LoopFor.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\obj\Debug\LoopFor.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\LoopFor\obj\Debug\LoopFor.pdb

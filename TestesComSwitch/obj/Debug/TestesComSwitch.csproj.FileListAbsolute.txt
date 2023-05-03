@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\bin\Debug\TestesComSwitch.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\bin\Debug\TestesComSwitch.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\bin\Debug\TestesComSwitch.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\obj\Debug\TestesComSwitch.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\obj\Debug\TestesComSwitch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\obj\Debug\TestesComSwitch.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\obj\Debug\TestesComSwitch.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\obj\Debug\TestesComSwitch.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\obj\Debug\TestesComSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\obj\Debug\TestesComSwitch.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\TestesComSwitch\obj\Debug\TestesComSwitch.pdb

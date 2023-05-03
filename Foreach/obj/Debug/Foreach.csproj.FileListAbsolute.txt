@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\bin\Debug\Foreach.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\bin\Debug\Foreach.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\obj\Debug\Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\obj\Debug\Foreach.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\obj\Debug\Foreach.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\obj\Debug\Foreach.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Foreach\obj\Debug\Foreach.pdb
