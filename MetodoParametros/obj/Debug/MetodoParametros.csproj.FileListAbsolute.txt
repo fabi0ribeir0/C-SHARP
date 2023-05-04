@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\bin\Debug\MetodoParametros.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\bin\Debug\MetodoParametros.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\bin\Debug\MetodoParametros.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\obj\Debug\MetodoParametros.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\obj\Debug\MetodoParametros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\obj\Debug\MetodoParametros.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\obj\Debug\MetodoParametros.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\obj\Debug\MetodoParametros.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\obj\Debug\MetodoParametros.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\obj\Debug\MetodoParametros.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoParametros\obj\Debug\MetodoParametros.pdb
