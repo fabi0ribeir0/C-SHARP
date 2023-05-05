@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\bin\Debug\MetodosParametrosP2.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\bin\Debug\MetodosParametrosP2.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\bin\Debug\MetodosParametrosP2.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\obj\Debug\MetodosParametrosP2.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\obj\Debug\MetodosParametrosP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\obj\Debug\MetodosParametrosP2.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\obj\Debug\MetodosParametrosP2.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\obj\Debug\MetodosParametrosP2.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\obj\Debug\MetodosParametrosP2.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\obj\Debug\MetodosParametrosP2.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodosParametrosP2\obj\Debug\MetodosParametrosP2.pdb
