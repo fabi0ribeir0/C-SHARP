@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\bin\Debug\Enumeracao.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\bin\Debug\Enumeracao.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\bin\Debug\Enumeracao.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\obj\Debug\Enumeracao.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\obj\Debug\Enumeracao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\obj\Debug\Enumeracao.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\obj\Debug\Enumeracao.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\obj\Debug\Enumeracao.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\obj\Debug\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\obj\Debug\Enumeracao.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Enumeracao\obj\Debug\Enumeracao.pdb
