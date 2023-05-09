@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\bin\Debug\CamposPropriedades.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\bin\Debug\CamposPropriedades.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\bin\Debug\CamposPropriedades.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\obj\Debug\CamposPropriedades.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\obj\Debug\CamposPropriedades.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\obj\Debug\CamposPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\obj\Debug\CamposPropriedades.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CamposPropriedades\obj\Debug\CamposPropriedades.pdb

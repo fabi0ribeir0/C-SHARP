@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\bin\Debug\MetodoReferencias.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\bin\Debug\MetodoReferencias.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\bin\Debug\MetodoReferencias.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\obj\Debug\MetodoReferencias.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\obj\Debug\MetodoReferencias.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\obj\Debug\MetodoReferencias.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\obj\Debug\MetodoReferencias.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\obj\Debug\MetodoReferencias.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\obj\Debug\MetodoReferencias.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\obj\Debug\MetodoReferencias.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\MetodoReferencias\obj\Debug\MetodoReferencias.pdb

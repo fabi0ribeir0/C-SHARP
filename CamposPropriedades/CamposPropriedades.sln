@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamposPropriedades", "CamposPropriedades.csproj", "{13D38FBC-7EEE-4BC2-9797-23F70BFCC9BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D38FBC-7EEE-4BC2-9797-23F70BFCC9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D38FBC-7EEE-4BC2-9797-23F70BFCC9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D38FBC-7EEE-4BC2-9797-23F70BFCC9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D38FBC-7EEE-4BC2-9797-23F70BFCC9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B9E213-9E9A-469C-A492-6E3DDB123F23}
+	EndGlobalSection
+EndGlobal

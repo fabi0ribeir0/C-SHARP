@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\bin\Debug\Construtores.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\bin\Debug\Construtores.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\bin\Debug\Construtores.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\obj\Debug\Construtores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\obj\Debug\Construtores.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\obj\Debug\Construtores.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\obj\Debug\Construtores.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\obj\Debug\Construtores.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Construtores\obj\Debug\Construtores.pdb
