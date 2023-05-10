@@ -1,0 +1,12 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\bin\Debug\ClasseStatic.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\bin\Debug\ClasseStatic.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\bin\Debug\ClasseStatic.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\obj\Debug\ClasseStatic.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\obj\Debug\ClasseStatic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\obj\Debug\ClasseStatic.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\obj\Debug\ClasseStatic.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\obj\Debug\ClasseStatic.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\obj\Debug\ClasseStatic.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\obj\Debug\ClasseStatic.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\obj\Debug\ClasseStatic.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseStatic\obj\Debug\ClasseStatic.Novo.resources
