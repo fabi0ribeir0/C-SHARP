@@ -1,0 +1,12 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\bin\Debug\AppEscola.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\bin\Debug\AppEscola.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\bin\Debug\AppEscola.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\obj\Debug\AppEscola.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\obj\Debug\AppEscola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\obj\Debug\AppEscola.FrmPrincipal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\obj\Debug\AppEscola.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\obj\Debug\AppEscola.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\obj\Debug\AppEscola.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\obj\Debug\AppEscola.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\obj\Debug\AppEscola.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppEscola\obj\Debug\AppEscola.FrmLogin.resources
