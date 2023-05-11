@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\bin\Debug\ClasseParcial.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\bin\Debug\ClasseParcial.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\bin\Debug\ClasseParcial.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\obj\Debug\ClasseParcial.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\obj\Debug\ClasseParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\obj\Debug\ClasseParcial.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\obj\Debug\ClasseParcial.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\obj\Debug\ClasseParcial.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\obj\Debug\ClasseParcial.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\obj\Debug\ClasseParcial.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseParcial\obj\Debug\ClasseParcial.pdb
