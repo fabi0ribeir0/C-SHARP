@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\bin\Debug\Constantes.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\bin\Debug\Constantes.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\bin\Debug\Constantes.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\obj\Debug\Constantes.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\obj\Debug\Constantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\obj\Debug\Constantes.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\obj\Debug\Constantes.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\obj\Debug\Constantes.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\obj\Debug\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\obj\Debug\Constantes.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Constantes\obj\Debug\Constantes.pdb
