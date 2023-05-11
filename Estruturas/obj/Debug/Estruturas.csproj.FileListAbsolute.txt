@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\bin\Debug\Estruturas.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\bin\Debug\Estruturas.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\bin\Debug\Estruturas.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\obj\Debug\Estruturas.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\obj\Debug\Estruturas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\obj\Debug\Estruturas.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\obj\Debug\Estruturas.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\obj\Debug\Estruturas.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\obj\Debug\Estruturas.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\obj\Debug\Estruturas.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Estruturas\obj\Debug\Estruturas.pdb
