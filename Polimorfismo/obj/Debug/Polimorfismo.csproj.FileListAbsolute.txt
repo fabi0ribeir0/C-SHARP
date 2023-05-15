@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\obj\Debug\Polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\obj\Debug\Polimorfismo.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\obj\Debug\Polimorfismo.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\obj\Debug\Polimorfismo.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\Polimorfismo\obj\Debug\Polimorfismo.pdb
