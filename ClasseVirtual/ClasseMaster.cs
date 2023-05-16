@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace ClasseVirtual
 {
-    internal class ClasseMaster
+    abstract class ClasseMaster
     {
         //Metodo Virtual
 
