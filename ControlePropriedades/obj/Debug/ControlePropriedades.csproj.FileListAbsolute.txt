@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\bin\Debug\ControlePropriedades.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\bin\Debug\ControlePropriedades.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\bin\Debug\ControlePropriedades.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\obj\Debug\ControlePropriedades.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\obj\Debug\ControlePropriedades.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\obj\Debug\ControlePropriedades.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\obj\Debug\ControlePropriedades.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\obj\Debug\ControlePropriedades.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\obj\Debug\ControlePropriedades.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\obj\Debug\ControlePropriedades.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ControlePropriedades\obj\Debug\ControlePropriedades.pdb
