@@ -7,13 +7,11 @@ using System.Windows.Forms;
 
 namespace ClasseVirtual
 {
-    internal class ClasseMaster
+    internal class Moto : ClasseMaster
     {
-        //Metodo Virtual
-
-        public virtual void Buzinar()
+        public override void Buzinar()
         {
-            MessageBox.Show("Buzinou");
+            base.Buzinar();
         }
     }
 }

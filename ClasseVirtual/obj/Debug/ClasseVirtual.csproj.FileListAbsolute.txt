@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\bin\Debug\ClasseVirtual.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\bin\Debug\ClasseVirtual.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\bin\Debug\ClasseVirtual.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\obj\Debug\ClasseVirtual.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\obj\Debug\ClasseVirtual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\obj\Debug\ClasseVirtual.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\obj\Debug\ClasseVirtual.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\obj\Debug\ClasseVirtual.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\obj\Debug\ClasseVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\obj\Debug\ClasseVirtual.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ClasseVirtual\obj\Debug\ClasseVirtual.pdb
