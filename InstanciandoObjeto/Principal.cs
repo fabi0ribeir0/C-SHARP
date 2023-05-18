@@ -12,7 +12,6 @@ namespace InstanciandoObjeto
 {
     public partial class Principal : Form
     {
-        FrmCalculadora calc = new FrmCalculadora();
         FrmCadastro cadastro = new FrmCadastro();
         FrmVendas vendas = new FrmVendas();
         public Principal()
@@ -22,6 +21,14 @@ namespace InstanciandoObjeto
 
         private void btnCalc_Click(object sender, EventArgs e)
         {
+            FrmCalculadora calc = new FrmCalculadora(txtNome.Text);
+            if (txtNome.Text.Trim() == "")
+            {
+                MessageBox.Show("Digite Um nome");
+                txtNome.Focus();
+                return;
+            }
+
             calc.ShowDialog();
         }
 

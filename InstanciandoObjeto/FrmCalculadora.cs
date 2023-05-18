@@ -12,9 +12,10 @@ namespace InstanciandoObjeto
 {
     public partial class FrmCalculadora : Form
     {
-        public FrmCalculadora()
+        public FrmCalculadora(string nome)
         {
             InitializeComponent();
+            lblNome.Text = nome.ToUpper();
         }
     }
 }
