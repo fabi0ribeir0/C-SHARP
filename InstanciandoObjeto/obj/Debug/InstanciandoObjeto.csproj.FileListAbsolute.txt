@@ -1,0 +1,14 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\bin\Debug\InstanciandoObjeto.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\bin\Debug\InstanciandoObjeto.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\bin\Debug\InstanciandoObjeto.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.FrmCadastro.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.FrmCalculadora.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\InstanciandoObjeto\obj\Debug\InstanciandoObjeto.FrmVendas.resources
