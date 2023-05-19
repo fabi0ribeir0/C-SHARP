@@ -9,3 +9,7 @@ C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.csproj.
 C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.csproj.CoreCompileInputs.cache
 C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.exe
 C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.csproj.CopyComplete
