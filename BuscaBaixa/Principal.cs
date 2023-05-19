@@ -69,10 +69,15 @@ namespace BuscaBaixa
 
         private void ExibirImagemAtual()
         {
+            ExibirImagemAtual(pictureBox1);
+        }
+
+        private void ExibirImagemAtual(PictureBox pictureBox1)
+        {
             if (indiceAtual >= 0 && indiceAtual < urlsImagens.Count)
             {
-                // Carregar a imagem a partir da URL e atribuí-la ao PictureBox
                 string urlImagemAtual = urlsImagens[indiceAtual];
+                MessageBox.Show("URL da imagem: " + urlImagemAtual); // Adicione esta linha para depurar
                 pictureBox1.Load(urlImagemAtual);
             }
         }
