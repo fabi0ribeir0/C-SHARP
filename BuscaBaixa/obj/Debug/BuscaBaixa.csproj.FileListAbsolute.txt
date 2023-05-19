@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\bin\Debug\BuscaBaixa.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\bin\Debug\BuscaBaixa.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\bin\Debug\BuscaBaixa.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\BuscaBaixa\obj\Debug\BuscaBaixa.pdb
