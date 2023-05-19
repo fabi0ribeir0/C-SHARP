@@ -45,7 +45,12 @@ namespace BuscaBaixa
                 foreach (var img in imagens)
                 {
                     string urlImagem = img.GetAttributeValue("src", "");
-                    sb.AppendLine(urlImagem);
+                    
+                    if (urlImagem.EndsWith(".jpg"))
+                    {
+                        sb.AppendLine(urlImagem);
+                    }
+
                 }
 
                 File.WriteAllText(caminhoDestino, sb.ToString());
@@ -77,7 +82,6 @@ namespace BuscaBaixa
             if (indiceAtual >= 0 && indiceAtual < urlsImagens.Count)
             {
                 string urlImagemAtual = urlsImagens[indiceAtual];
-                MessageBox.Show("URL da imagem: " + urlImagemAtual); // Adicione esta linha para depurar
                 pictureBox1.Load(urlImagemAtual);
             }
         }
@@ -99,5 +103,6 @@ namespace BuscaBaixa
                 ExibirImagemAtual();
             }
         }
+        
     }
 }
