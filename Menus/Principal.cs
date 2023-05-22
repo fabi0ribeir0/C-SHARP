@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Menus.Vendas;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -41,5 +42,28 @@ namespace Menus
             cadastro.ShowDialog();
         }
 
+        private void Principal_Load(object sender, EventArgs e)
+        {
+            menuCombo.Items.Add("Dia");
+            menuCombo.Items.Add("Mês");
+            menuCombo.Items.Add("Ano");
+            menuCombo.Items.Add("Horas");
+        }
+
+        private void menuCombo_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            txtNome.Text = menuCombo.Text;
+        }
+
+        private void toolStripTextBox1_Click(object sender, EventArgs e)
+        {
+            FrmVendas frm = new FrmVendas();
+        }
+
+        private void fecharToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //this.Close();
+            Application.Exit();
+        }
     }
 }
