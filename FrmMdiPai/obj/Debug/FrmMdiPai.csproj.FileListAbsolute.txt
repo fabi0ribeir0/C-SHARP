@@ -1,0 +1,12 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\bin\Debug\FrmMdiPai.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\bin\Debug\FrmMdiPai.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\bin\Debug\FrmMdiPai.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\obj\Debug\FrmMdiPai.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\obj\Debug\FrmMdiPai.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\obj\Debug\FrmMdiPai.FrmFilho.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\obj\Debug\FrmMdiPai.Pai.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\obj\Debug\FrmMdiPai.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\obj\Debug\FrmMdiPai.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\obj\Debug\FrmMdiPai.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\obj\Debug\FrmMdiPai.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FrmMdiPai\obj\Debug\FrmMdiPai.pdb
