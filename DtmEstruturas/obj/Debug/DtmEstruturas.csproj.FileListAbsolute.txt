@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\bin\Debug\DtmEstruturas.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\bin\Debug\DtmEstruturas.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\bin\Debug\DtmEstruturas.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\obj\Debug\DtmEstruturas.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\obj\Debug\DtmEstruturas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\obj\Debug\DtmEstruturas.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\obj\Debug\DtmEstruturas.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\obj\Debug\DtmEstruturas.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\obj\Debug\DtmEstruturas.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\obj\Debug\DtmEstruturas.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DtmEstruturas\obj\Debug\DtmEstruturas.pdb
