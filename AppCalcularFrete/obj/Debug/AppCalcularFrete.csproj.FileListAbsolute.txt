@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\bin\Debug\AppCalcularFrete.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\bin\Debug\AppCalcularFrete.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\bin\Debug\AppCalcularFrete.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\obj\Debug\AppCalcularFrete.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\obj\Debug\AppCalcularFrete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\obj\Debug\AppCalcularFrete.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\obj\Debug\AppCalcularFrete.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\obj\Debug\AppCalcularFrete.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\obj\Debug\AppCalcularFrete.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\obj\Debug\AppCalcularFrete.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppCalcularFrete\obj\Debug\AppCalcularFrete.pdb
