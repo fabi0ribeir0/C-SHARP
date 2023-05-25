@@ -28,20 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnOK = new System.Windows.Forms.Button();
+            this.btnLer = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.btnAdd = new System.Windows.Forms.Button();
             this.btnNaoApaga = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
-            // btnOK
+            // btnLer
             // 
-            this.btnOK.Location = new System.Drawing.Point(12, 403);
-            this.btnOK.Name = "btnOK";
-            this.btnOK.Size = new System.Drawing.Size(75, 23);
-            this.btnOK.TabIndex = 0;
-            this.btnOK.Text = "OK";
-            this.btnOK.UseVisualStyleBackColor = true;
+            this.btnLer.Location = new System.Drawing.Point(12, 403);
+            this.btnLer.Name = "btnLer";
+            this.btnLer.Size = new System.Drawing.Size(75, 23);
+            this.btnLer.TabIndex = 0;
+            this.btnLer.Text = "Ler";
+            this.btnLer.UseVisualStyleBackColor = true;
+            this.btnLer.Click += new System.EventHandler(this.btnLer_Click);
             // 
             // textBox1
             // 
@@ -70,15 +72,24 @@
             this.btnNaoApaga.UseVisualStyleBackColor = true;
             this.btnNaoApaga.Click += new System.EventHandler(this.btnNaoApaga_Click);
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(12, 98);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(694, 251);
+            this.listBox1.TabIndex = 4;
+            // 
             // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.btnNaoApaga);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.btnOK);
+            this.Controls.Add(this.btnLer);
             this.Name = "Principal";
             this.Text = "Principal";
             this.ResumeLayout(false);
@@ -88,10 +99,11 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btnOK;
+        private System.Windows.Forms.Button btnLer;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Button btnNaoApaga;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }
 

@@ -33,12 +33,30 @@ namespace CriaArquivo
         {
             StreamWriter arq = new StreamWriter(@"C:\ARQ\Arquivo.txt", true, Encoding.Default);
 
-            string data = DateTime.Now.ToString("G");
+            string data = DateTime.Now.ToString("G"); // fiz com variavel porem não precisava
+            /*
+             poderia ter feito desta forma:
 
+                arq.WriteLine(txtBox1.Text + "-" + DateTime.Now("G")
+
+             */
 
             arq.WriteLine(data + " - " +textBox1.Text); //Escreve no arquivo criado acima tudo que contem no textBox1
 
             arq.Dispose(); 
+        }
+
+        private void btnLer_Click(object sender, EventArgs e)
+        {
+            StreamReader ler = new StreamReader(@"C:\ARQ\Arquivo.txt");
+
+            while (ler.EndOfStream)
+            {
+                listBox1.Items.Add(ler.ReadLine());
+            }
+
+            
+            ler.Dispose();
         }
     }
 }
