@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\bin\Debug\CriaArquivo.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\bin\Debug\CriaArquivo.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\bin\Debug\CriaArquivo.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\obj\Debug\CriaArquivo.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\obj\Debug\CriaArquivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\obj\Debug\CriaArquivo.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\obj\Debug\CriaArquivo.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\obj\Debug\CriaArquivo.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\obj\Debug\CriaArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\obj\Debug\CriaArquivo.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriaArquivo\obj\Debug\CriaArquivo.pdb
