@@ -13,7 +13,8 @@ namespace CriandoDiretorioseAqriovos
 {
     public partial class Principal : Form
     {
-        string caminho = @"C:\ARQ\BACKUP";
+        string caminho = @"C:\ARQ\BACKUP\";
+        string NomeArquivo = "Config.cfg";
         public Principal()
         {
             InitializeComponent();
@@ -23,13 +24,21 @@ namespace CriandoDiretorioseAqriovos
         {
             //Criar pasta
             
-            if (Directory.Exists(caminho))
+            if (!Directory.Exists(caminho+NomeArquivo))
             {
-                MessageBox.Show("EXISTE");
-            }
-            else { Directory.CreateDirectory(caminho); MessageBox.Show("Criado"); }
+                Directory.CreateDirectory(caminho);
+                
+                StreamWriter arquivo = new StreamWriter(caminho+NomeArquivo, false, Encoding.Default);
 
-            //Directory
+                arquivo.WriteLine(txtNome.Text);
+                arquivo.WriteLine(dtData.Value.ToShortDateString());
+
+                arquivo.Dispose();
+
+                MessageBox.Show("Criado");
+            }
+            //else { MessageBox.Show("Ja existe"); }
+
         }
     }
 }
