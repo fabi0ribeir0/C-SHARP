@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\bin\Debug\CriandoDiretorioseAqriovos.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\bin\Debug\CriandoDiretorioseAqriovos.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\bin\Debug\CriandoDiretorioseAqriovos.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\obj\Debug\CriandoDiretorioseAqriovos.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\obj\Debug\CriandoDiretorioseAqriovos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\obj\Debug\CriandoDiretorioseAqriovos.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\obj\Debug\CriandoDiretorioseAqriovos.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\obj\Debug\CriandoDiretorioseAqriovos.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\obj\Debug\CriandoDiretorioseAqriovos.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\obj\Debug\CriandoDiretorioseAqriovos.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CriandoDiretorioseAqriovos\obj\Debug\CriandoDiretorioseAqriovos.pdb
