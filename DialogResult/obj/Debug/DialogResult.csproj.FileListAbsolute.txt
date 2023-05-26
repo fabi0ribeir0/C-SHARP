@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\bin\Debug\DialogResult.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\bin\Debug\DialogResult.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\bin\Debug\DialogResult.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\obj\Debug\DialogResult.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\obj\Debug\DialogResult.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\obj\Debug\DialogResult.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\obj\Debug\DialogResult.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\obj\Debug\DialogResult.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\obj\Debug\DialogResult.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\obj\Debug\DialogResult.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\DialogResult\obj\Debug\DialogResult.pdb
