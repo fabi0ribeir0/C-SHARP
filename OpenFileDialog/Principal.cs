@@ -24,9 +24,9 @@ namespace OpenFileDialog
             open.InitialDirectory = @"C:\Users\Fabio\Pictures\";            
             open.Title = "Buscador";
 
-            open.Filter = "Imagens | *jpg| Tranparentes | *png"; //Não pode ter esáço após a extensão 
+            open.Filter = "Imagens | *jpg|Tranparentes | *png|Todos Arquivos|*.*"; //Não pode ter esáço após a extensão 
             
-            open.ShowDialog();
+           // open.ShowDialog(); - ja aberto em open.InitialDirectory
 
             if (open.ShowDialog() == DialogResult.Cancel)
                 return;
