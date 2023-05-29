@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\bin\Debug\ListaColecoes.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\bin\Debug\ListaColecoes.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\bin\Debug\ListaColecoes.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\obj\Debug\ListaColecoes.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\obj\Debug\ListaColecoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\obj\Debug\ListaColecoes.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\obj\Debug\ListaColecoes.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\obj\Debug\ListaColecoes.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\obj\Debug\ListaColecoes.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\obj\Debug\ListaColecoes.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\ListaColecoes\obj\Debug\ListaColecoes.pdb
