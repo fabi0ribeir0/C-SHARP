@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\bin\Debug\FolderBroser.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\bin\Debug\FolderBroser.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\bin\Debug\FolderBroser.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\obj\Debug\FolderBroser.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\obj\Debug\FolderBroser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\obj\Debug\FolderBroser.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\obj\Debug\FolderBroser.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\obj\Debug\FolderBroser.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\obj\Debug\FolderBroser.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\obj\Debug\FolderBroser.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\FolderBroser\obj\Debug\FolderBroser.pdb
