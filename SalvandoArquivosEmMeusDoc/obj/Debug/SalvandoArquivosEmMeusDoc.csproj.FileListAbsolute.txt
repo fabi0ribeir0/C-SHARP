@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\bin\Debug\SalvandoArquivosEmMeusDoc.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\bin\Debug\SalvandoArquivosEmMeusDoc.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\bin\Debug\SalvandoArquivosEmMeusDoc.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\obj\Debug\SalvandoArquivosEmMeusDoc.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\obj\Debug\SalvandoArquivosEmMeusDoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\obj\Debug\SalvandoArquivosEmMeusDoc.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\obj\Debug\SalvandoArquivosEmMeusDoc.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\obj\Debug\SalvandoArquivosEmMeusDoc.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\obj\Debug\SalvandoArquivosEmMeusDoc.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\obj\Debug\SalvandoArquivosEmMeusDoc.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SalvandoArquivosEmMeusDoc\obj\Debug\SalvandoArquivosEmMeusDoc.pdb
