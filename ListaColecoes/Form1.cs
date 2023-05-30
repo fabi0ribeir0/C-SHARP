@@ -33,11 +33,27 @@ namespace ListaColecoes
                 lstLista.Items.Add(Nome);
             }
 
+            MessageBox.Show(Nomes.LastIndexOf("Teste 2").ToString());
+
         }
 
         private void btn2_Click(object sender, EventArgs e)
         {
+            //List<int> listar = new List<int>()
+            //{
+            //    10, 30, 40, 20, 90, 5
+            //};
 
+            //foreach (int Nome in listar)
+            //    lstLista.Items.Add(Nome);
+
+            //      HashSet
+            HashSet<string> Set = new HashSet<string>() { "fabio", "elena", "monica" };
+
+            Set.Add("fabio");
+
+
+            MessageBox.Show(Set.Count.ToString());
         }
     }
 }
