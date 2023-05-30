@@ -30,6 +30,7 @@
         {
             this.btnOK = new System.Windows.Forms.Button();
             this.lstLista = new System.Windows.Forms.ListBox();
+            this.btn2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOK
@@ -50,11 +51,22 @@
             this.lstLista.Size = new System.Drawing.Size(419, 355);
             this.lstLista.TabIndex = 1;
             // 
+            // btn2
+            // 
+            this.btn2.Location = new System.Drawing.Point(12, 460);
+            this.btn2.Name = "btn2";
+            this.btn2.Size = new System.Drawing.Size(75, 23);
+            this.btn2.TabIndex = 2;
+            this.btn2.Text = "2";
+            this.btn2.UseVisualStyleBackColor = true;
+            this.btn2.Click += new System.EventHandler(this.btn2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(551, 551);
+            this.Controls.Add(this.btn2);
             this.Controls.Add(this.lstLista);
             this.Controls.Add(this.btnOK);
             this.Name = "Form1";
@@ -67,6 +79,7 @@
 
         private System.Windows.Forms.Button btnOK;
         private System.Windows.Forms.ListBox lstLista;
+        private System.Windows.Forms.Button btn2;
     }
 }
 
