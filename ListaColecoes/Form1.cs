@@ -55,5 +55,42 @@ namespace ListaColecoes
 
             MessageBox.Show(Set.Count.ToString());
         }
+
+        private void btn3_Click(object sender, EventArgs e)
+        {
+            // Dictionary
+
+            Dictionary<int, string> MyList;
+
+            MyList = new Dictionary<int, string>();
+
+            MyList.Add(100, "Cem");
+            MyList.Add(20, "Teste");
+
+            MessageBox.Show(MyList[20]);
+
+        }
+
+        private void btnCopy_Click(object sender, EventArgs e)
+        {
+            Dictionary<string, string> MyList;
+            MyList = new Dictionary<string, string>();
+
+            MyList.Add("btnCopy", "Faça a cópia");
+            MyList.Add("btnCola", "Cole o conteudo");
+            MyList.Add("btnRecorta", "Recorte e cole");
+
+
+        }
+
+        private void btnCola_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRecorta_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
