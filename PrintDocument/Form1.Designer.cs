@@ -1,4 +1,4 @@
-﻿namespace SQL_Linq
+﻿namespace PrintDocument
 {
     partial class Form1
     {
@@ -34,9 +34,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(582, 422);
+            this.ClientSize = new System.Drawing.Size(589, 469);
             this.Name = "Form1";
-            this.Text = " ";
+            this.Text = "Form1";
             this.ResumeLayout(false);
 
         }

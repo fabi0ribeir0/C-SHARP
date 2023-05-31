@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4904FCF7-ABC2-42FB-95D4-216A8320AA4E}</ProjectGuid>
+    <ProjectGuid>{9092E469-509A-4F04-9FA4-978BE5CE0DFB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>SQL_Linq</RootNamespace>
-    <AssemblyName>SQL Linq</AssemblyName>
+    <RootNamespace>PrintDocument</RootNamespace>
+    <AssemblyName>PrintDocument</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
