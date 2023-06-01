@@ -30,6 +30,7 @@
         {
             this.btnImprimir = new System.Windows.Forms.Button();
             this.Imprimir = new System.Drawing.Printing.PrintDocument();
+            this.cfgImpressao = new System.Windows.Forms.PrintDialog();
             this.SuspendLayout();
             // 
             // btnImprimir
@@ -45,6 +46,10 @@
             // Imprimir
             // 
             this.Imprimir.PrintPage += new System.Drawing.Printing.PrintPageEventHandler(this.Imprimir_PrintPage);
+            // 
+            // cfgImpressao
+            // 
+            this.cfgImpressao.UseEXDialog = true;
             // 
             // Form1
             // 
@@ -62,6 +67,7 @@
 
         private System.Windows.Forms.Button btnImprimir;
         private System.Drawing.Printing.PrintDocument Imprimir;
+        private System.Windows.Forms.PrintDialog cfgImpressao;
     }
 }
 

@@ -76,6 +76,9 @@ namespace PrintNewPage
             numFrases = 1;
             isPrinting = true;
 
+            if (cfgImpressao.ShowDialog() == DialogResult.Cancel)
+                return;
+
             Imprimir.Print();
         }
     }
