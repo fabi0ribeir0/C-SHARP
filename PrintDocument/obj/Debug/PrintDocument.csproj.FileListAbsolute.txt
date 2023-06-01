@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\bin\Debug\PrintDocument.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\bin\Debug\PrintDocument.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\bin\Debug\PrintDocument.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\obj\Debug\PrintDocument.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\obj\Debug\PrintDocument.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\obj\Debug\PrintDocument.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\obj\Debug\PrintDocument.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\obj\Debug\PrintDocument.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\obj\Debug\PrintDocument.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\obj\Debug\PrintDocument.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintDocument\obj\Debug\PrintDocument.pdb
