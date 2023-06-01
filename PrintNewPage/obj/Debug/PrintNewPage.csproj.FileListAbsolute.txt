@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\bin\Debug\PrintNewPage.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\bin\Debug\PrintNewPage.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\bin\Debug\PrintNewPage.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\obj\Debug\PrintNewPage.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\obj\Debug\PrintNewPage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\obj\Debug\PrintNewPage.Form1.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\obj\Debug\PrintNewPage.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\obj\Debug\PrintNewPage.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\obj\Debug\PrintNewPage.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\obj\Debug\PrintNewPage.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\PrintNewPage\obj\Debug\PrintNewPage.pdb
