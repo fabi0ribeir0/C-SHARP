@@ -31,11 +31,12 @@
             this.btnImprimir = new System.Windows.Forms.Button();
             this.Impressora = new System.Drawing.Printing.PrintDocument();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // btnImprimir
             // 
-            this.btnImprimir.Location = new System.Drawing.Point(194, 369);
+            this.btnImprimir.Location = new System.Drawing.Point(171, 384);
             this.btnImprimir.Name = "btnImprimir";
             this.btnImprimir.Size = new System.Drawing.Size(75, 23);
             this.btnImprimir.TabIndex = 0;
@@ -49,16 +50,25 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(78, 180);
+            this.textBox1.Location = new System.Drawing.Point(37, 343);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(341, 20);
             this.textBox1.TabIndex = 1;
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(59, 75);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(298, 186);
+            this.listBox1.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(589, 469);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.btnImprimir);
             this.Name = "Form1";
@@ -73,6 +83,7 @@
         private System.Windows.Forms.Button btnImprimir;
         private System.Drawing.Printing.PrintDocument Impressora;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }
 
