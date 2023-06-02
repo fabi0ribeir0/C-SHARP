@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\bin\Debug\RandomAleatorio.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\bin\Debug\RandomAleatorio.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\bin\Debug\RandomAleatorio.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\obj\Debug\RandomAleatorio.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\obj\Debug\RandomAleatorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\obj\Debug\RandomAleatorio.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\obj\Debug\RandomAleatorio.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\obj\Debug\RandomAleatorio.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\obj\Debug\RandomAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\obj\Debug\RandomAleatorio.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\RandomAleatorio\obj\Debug\RandomAleatorio.pdb
