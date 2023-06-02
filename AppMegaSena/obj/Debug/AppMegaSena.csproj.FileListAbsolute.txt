@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\bin\Debug\AppMegaSena.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\bin\Debug\AppMegaSena.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\bin\Debug\AppMegaSena.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\obj\Debug\AppMegaSena.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\obj\Debug\AppMegaSena.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\obj\Debug\AppMegaSena.FrmMegaSena.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\obj\Debug\AppMegaSena.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\obj\Debug\AppMegaSena.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\obj\Debug\AppMegaSena.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\obj\Debug\AppMegaSena.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppMegaSena\obj\Debug\AppMegaSena.pdb
