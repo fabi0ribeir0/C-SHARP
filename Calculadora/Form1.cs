@@ -51,6 +51,7 @@ namespace Calculadora
 
         private void button8_Click(object sender, EventArgs e) // IGUAL
         {
+            btnVirgula.Enabled = true; //reativa a virgula
 
             segundo = decimal.Parse(txtVisor.Text);
             txtSegundoVisor.Text = $"{txtSegundoVisor.Text}{txtVisor.Text}";
@@ -87,7 +88,7 @@ namespace Calculadora
 
         }
 
-        private void btvVirgula_Click(object sender, EventArgs e)
+        private void btnVirgula_Click(object sender, EventArgs e)
         {
             System.Windows.Forms.Button button = (System.Windows.Forms.Button)sender;
             string buttonText = button.Text;
@@ -101,8 +102,10 @@ namespace Calculadora
 
         private void btnApagar_Click(object sender, EventArgs e)
         {
+            
             //Captura o texto atual do txtbox
             string texto = txtVisor.Text;
+
 
             //Verifica se o texto não está vazio
             if (!string.IsNullOrEmpty(texto))
@@ -110,7 +113,13 @@ namespace Calculadora
                 // Remove o último caractere
                 txtVisor.Text = texto.Substring(0, texto.Length - 1);
             }
-            
+
+            if (txtVisor.Text.Contains(','))
+            {
+                btnVirgula.Enabled = false; // Desativa o botão após o clique
+            }
+            else btnVirgula.Enabled = true;
+
         }
 
         private void btnCorrige_Click(object sender, EventArgs e)
@@ -125,6 +134,8 @@ namespace Calculadora
 
         private void btnMult_Click(object sender, EventArgs e)
         {
+            btnVirgula.Enabled = true; //reativa a virgula
+
             if (resultado == 0)
             {
                 primeiro = Decimal.Parse(txtVisor.Text);
@@ -141,6 +152,7 @@ namespace Calculadora
 
         private void btnSub_Click(object sender, EventArgs e)
         {
+            btnVirgula.Enabled = true;
             if (resultado == 0)
             {
                 primeiro = Decimal.Parse(txtVisor.Text);
@@ -157,6 +169,7 @@ namespace Calculadora
 
         private void btnSoma_Click(object sender, EventArgs e)
         {
+            btnVirgula.Enabled = true;
             if (resultado == 0)
             {
                 primeiro = Decimal.Parse(txtVisor.Text);
@@ -173,6 +186,8 @@ namespace Calculadora
 
         private void btnDiv_Click(object sender, EventArgs e)
         {
+            btnVirgula.Enabled = true; //reativa a virgula
+
             if (resultado == 0)
             {
                 primeiro = Decimal.Parse(txtVisor.Text);

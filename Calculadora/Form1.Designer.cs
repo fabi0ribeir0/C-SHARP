@@ -37,7 +37,7 @@ namespace Calculadora
             this.btn2 = new System.Windows.Forms.Button();
             this.btn1 = new System.Windows.Forms.Button();
             this.btnSub = new System.Windows.Forms.Button();
-            this.btvVirgula = new System.Windows.Forms.Button();
+            this.btnVirgula = new System.Windows.Forms.Button();
             this.btn4 = new System.Windows.Forms.Button();
             this.btn5 = new System.Windows.Forms.Button();
             this.btn6 = new System.Windows.Forms.Button();
@@ -140,17 +140,17 @@ namespace Calculadora
             this.btnSub.UseVisualStyleBackColor = true;
             this.btnSub.Click += new System.EventHandler(this.btnSub_Click);
             // 
-            // btvVirgula
+            // btnVirgula
             // 
-            this.btvVirgula.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btvVirgula.Location = new System.Drawing.Point(137, 349);
-            this.btvVirgula.Name = "btvVirgula";
-            this.btvVirgula.Size = new System.Drawing.Size(50, 50);
-            this.btvVirgula.TabIndex = 8;
-            this.btvVirgula.TabStop = false;
-            this.btvVirgula.Text = ",";
-            this.btvVirgula.UseVisualStyleBackColor = true;
-            this.btvVirgula.Click += new System.EventHandler(this.btvVirgula_Click);
+            this.btnVirgula.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVirgula.Location = new System.Drawing.Point(137, 349);
+            this.btnVirgula.Name = "btnVirgula";
+            this.btnVirgula.Size = new System.Drawing.Size(50, 50);
+            this.btnVirgula.TabIndex = 8;
+            this.btnVirgula.TabStop = false;
+            this.btnVirgula.Text = ",";
+            this.btnVirgula.UseVisualStyleBackColor = true;
+            this.btnVirgula.Click += new System.EventHandler(this.btnVirgula_Click);
             // 
             // btn4
             // 
@@ -357,7 +357,7 @@ namespace Calculadora
             this.Controls.Add(this.btn4);
             this.Controls.Add(this.btn5);
             this.Controls.Add(this.btn6);
-            this.Controls.Add(this.btvVirgula);
+            this.Controls.Add(this.btnVirgula);
             this.Controls.Add(this.btnSub);
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.btn2);
@@ -384,7 +384,7 @@ namespace Calculadora
         private Button btn2;
         private Button btn1;
         private Button btnSub;
-        private Button btvVirgula;
+        private Button btnVirgula;
         private Button btn4;
         private Button btn5;
         private Button btn6;
