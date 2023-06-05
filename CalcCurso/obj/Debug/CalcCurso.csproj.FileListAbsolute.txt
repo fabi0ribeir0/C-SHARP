@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\bin\Debug\CalcCurso.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\bin\Debug\CalcCurso.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\bin\Debug\CalcCurso.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\obj\Debug\CalcCurso.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\obj\Debug\CalcCurso.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\obj\Debug\CalcCurso.FrmCalculadora.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\obj\Debug\CalcCurso.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\obj\Debug\CalcCurso.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\obj\Debug\CalcCurso.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\obj\Debug\CalcCurso.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\CalcCurso\obj\Debug\CalcCurso.pdb
