@@ -87,6 +87,7 @@ namespace Calculadora
             this.btn0.Name = "btn0";
             this.btn0.Size = new System.Drawing.Size(110, 50);
             this.btn0.TabIndex = 2;
+            this.btn0.TabStop = false;
             this.btn0.Text = "0";
             this.btn0.UseVisualStyleBackColor = true;
             this.btn0.Click += new System.EventHandler(this.btn0_Click);
@@ -98,6 +99,7 @@ namespace Calculadora
             this.btn3.Name = "btn3";
             this.btn3.Size = new System.Drawing.Size(50, 50);
             this.btn3.TabIndex = 4;
+            this.btn3.TabStop = false;
             this.btn3.Text = "3";
             this.btn3.UseVisualStyleBackColor = true;
             this.btn3.Click += new System.EventHandler(this.btn0_Click);
@@ -109,6 +111,7 @@ namespace Calculadora
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(50, 50);
             this.btn2.TabIndex = 5;
+            this.btn2.TabStop = false;
             this.btn2.Text = "2";
             this.btn2.UseVisualStyleBackColor = true;
             this.btn2.Click += new System.EventHandler(this.btn0_Click);
@@ -120,6 +123,7 @@ namespace Calculadora
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(50, 50);
             this.btn1.TabIndex = 6;
+            this.btn1.TabStop = false;
             this.btn1.Text = "1";
             this.btn1.UseVisualStyleBackColor = true;
             this.btn1.Click += new System.EventHandler(this.btn0_Click);
@@ -131,8 +135,10 @@ namespace Calculadora
             this.btnSub.Name = "btnSub";
             this.btnSub.Size = new System.Drawing.Size(50, 50);
             this.btnSub.TabIndex = 7;
+            this.btnSub.TabStop = false;
             this.btnSub.Text = "-";
             this.btnSub.UseVisualStyleBackColor = true;
+            this.btnSub.Click += new System.EventHandler(this.btnSub_Click);
             // 
             // btvVirgula
             // 
@@ -141,6 +147,7 @@ namespace Calculadora
             this.btvVirgula.Name = "btvVirgula";
             this.btvVirgula.Size = new System.Drawing.Size(50, 50);
             this.btvVirgula.TabIndex = 8;
+            this.btvVirgula.TabStop = false;
             this.btvVirgula.Text = ",";
             this.btvVirgula.UseVisualStyleBackColor = true;
             this.btvVirgula.Click += new System.EventHandler(this.btvVirgula_Click);
@@ -152,6 +159,7 @@ namespace Calculadora
             this.btn4.Name = "btn4";
             this.btn4.Size = new System.Drawing.Size(50, 50);
             this.btn4.TabIndex = 11;
+            this.btn4.TabStop = false;
             this.btn4.Text = "4";
             this.btn4.UseVisualStyleBackColor = true;
             this.btn4.Click += new System.EventHandler(this.btn0_Click);
@@ -163,6 +171,7 @@ namespace Calculadora
             this.btn5.Name = "btn5";
             this.btn5.Size = new System.Drawing.Size(50, 50);
             this.btn5.TabIndex = 10;
+            this.btn5.TabStop = false;
             this.btn5.Text = "5";
             this.btn5.UseVisualStyleBackColor = true;
             this.btn5.Click += new System.EventHandler(this.btn0_Click);
@@ -174,6 +183,7 @@ namespace Calculadora
             this.btn6.Name = "btn6";
             this.btn6.Size = new System.Drawing.Size(50, 50);
             this.btn6.TabIndex = 9;
+            this.btn6.TabStop = false;
             this.btn6.Text = "6";
             this.btn6.UseVisualStyleBackColor = true;
             this.btn6.Click += new System.EventHandler(this.btn0_Click);
@@ -185,6 +195,7 @@ namespace Calculadora
             this.btn7.Name = "btn7";
             this.btn7.Size = new System.Drawing.Size(50, 50);
             this.btn7.TabIndex = 14;
+            this.btn7.TabStop = false;
             this.btn7.Text = "7";
             this.btn7.UseVisualStyleBackColor = true;
             this.btn7.Click += new System.EventHandler(this.btn0_Click);
@@ -196,6 +207,7 @@ namespace Calculadora
             this.btn8.Name = "btn8";
             this.btn8.Size = new System.Drawing.Size(50, 50);
             this.btn8.TabIndex = 13;
+            this.btn8.TabStop = false;
             this.btn8.Text = "8";
             this.btn8.UseVisualStyleBackColor = true;
             this.btn8.Click += new System.EventHandler(this.btn0_Click);
@@ -207,6 +219,7 @@ namespace Calculadora
             this.btn9.Name = "btn9";
             this.btn9.Size = new System.Drawing.Size(50, 50);
             this.btn9.TabIndex = 12;
+            this.btn9.TabStop = false;
             this.btn9.Text = "9";
             this.btn9.UseVisualStyleBackColor = true;
             this.btn9.Click += new System.EventHandler(this.btn0_Click);
@@ -218,8 +231,10 @@ namespace Calculadora
             this.btnSoma.Name = "btnSoma";
             this.btnSoma.Size = new System.Drawing.Size(50, 50);
             this.btnSoma.TabIndex = 15;
+            this.btnSoma.TabStop = false;
             this.btnSoma.Text = "+";
             this.btnSoma.UseVisualStyleBackColor = true;
+            this.btnSoma.Click += new System.EventHandler(this.btnSoma_Click);
             // 
             // btnMult
             // 
@@ -228,8 +243,10 @@ namespace Calculadora
             this.btnMult.Name = "btnMult";
             this.btnMult.Size = new System.Drawing.Size(50, 50);
             this.btnMult.TabIndex = 17;
+            this.btnMult.TabStop = false;
             this.btnMult.Text = "*";
             this.btnMult.UseVisualStyleBackColor = true;
+            this.btnMult.Click += new System.EventHandler(this.btnMult_Click);
             // 
             // btnDiv
             // 
@@ -238,8 +255,10 @@ namespace Calculadora
             this.btnDiv.Name = "btnDiv";
             this.btnDiv.Size = new System.Drawing.Size(50, 50);
             this.btnDiv.TabIndex = 16;
+            this.btnDiv.TabStop = false;
             this.btnDiv.Text = "/";
             this.btnDiv.UseVisualStyleBackColor = true;
+            this.btnDiv.Click += new System.EventHandler(this.btnDiv_Click);
             // 
             // button1
             // 
@@ -248,6 +267,7 @@ namespace Calculadora
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(50, 50);
             this.button1.TabIndex = 21;
+            this.button1.TabStop = false;
             this.button1.UseVisualStyleBackColor = true;
             // 
             // btnApagar
@@ -257,8 +277,10 @@ namespace Calculadora
             this.btnApagar.Name = "btnApagar";
             this.btnApagar.Size = new System.Drawing.Size(111, 50);
             this.btnApagar.TabIndex = 20;
+            this.btnApagar.TabStop = false;
             this.btnApagar.Text = " ⬅";
             this.btnApagar.UseVisualStyleBackColor = true;
+            this.btnApagar.Click += new System.EventHandler(this.btnApagar_Click);
             // 
             // btnCorrige
             // 
@@ -267,8 +289,10 @@ namespace Calculadora
             this.btnCorrige.Name = "btnCorrige";
             this.btnCorrige.Size = new System.Drawing.Size(50, 50);
             this.btnCorrige.TabIndex = 18;
+            this.btnCorrige.TabStop = false;
             this.btnCorrige.Text = "C";
             this.btnCorrige.UseVisualStyleBackColor = true;
+            this.btnCorrige.Click += new System.EventHandler(this.btnCorrige_Click);
             // 
             // button5
             // 
@@ -277,6 +301,7 @@ namespace Calculadora
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(50, 50);
             this.button5.TabIndex = 26;
+            this.button5.TabStop = false;
             this.button5.UseVisualStyleBackColor = true;
             // 
             // button6
@@ -286,6 +311,7 @@ namespace Calculadora
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(50, 50);
             this.button6.TabIndex = 25;
+            this.button6.TabStop = false;
             this.button6.UseVisualStyleBackColor = true;
             // 
             // button7
@@ -295,6 +321,7 @@ namespace Calculadora
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(50, 50);
             this.button7.TabIndex = 24;
+            this.button7.TabStop = false;
             this.button7.UseVisualStyleBackColor = true;
             // 
             // button8
@@ -304,8 +331,10 @@ namespace Calculadora
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(50, 107);
             this.button8.TabIndex = 23;
+            this.button8.TabStop = false;
             this.button8.Text = "=";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // FrmCalculadora
             // 

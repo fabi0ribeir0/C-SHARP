@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ToolBar;
 
 namespace Calculadora
 {
@@ -16,8 +17,10 @@ namespace Calculadora
         public FrmCalculadora()
         {
             InitializeComponent();
+            txtVisor.Focus();
         }
-
+        decimal primeiro, segundo;
+        decimal resultado = 0;
 
         private void txtVisor_KeyPress(object sender, KeyPressEventArgs e)
         {
@@ -33,8 +36,6 @@ namespace Calculadora
                 e.Handled |= true;
             }
         }
-        int contador = 0;
-
 
         private void btn0_Click(object sender, EventArgs e)
         {
@@ -48,6 +49,44 @@ namespace Calculadora
             }
         }
 
+        private void button8_Click(object sender, EventArgs e) // IGUAL
+        {
+
+            segundo = decimal.Parse(txtVisor.Text);
+            txtSegundoVisor.Text = $"{txtSegundoVisor.Text}{txtVisor.Text}";
+            
+            if (txtSegundoVisor.Text.Contains('/'))
+            {
+                resultado = primeiro / segundo;
+                txtSegundoVisor.Text = $"{primeiro}/{segundo} = {Math.Round(resultado, 4)}";
+                txtSegundoVisor.MaxLength = 15;                
+            }
+            else if (txtSegundoVisor.Text.Contains('*'))
+            {
+                resultado = primeiro * segundo;
+                txtSegundoVisor.Text = $"{primeiro}*{segundo} = {resultado}";
+                txtSegundoVisor .MaxLength = 15;    
+            }
+            else if (txtSegundoVisor.Text.Contains('+'))
+            {
+                resultado = primeiro + segundo;
+                txtSegundoVisor.Text = $"{primeiro}+{segundo} = {resultado}";
+                txtSegundoVisor.MaxLength = 15;
+            }
+            else if (txtSegundoVisor.Text.Contains("-"))
+            {
+                resultado = primeiro - segundo;
+                txtSegundoVisor.Text = $"{primeiro}-{segundo} = {resultado}";
+                txtSegundoVisor.MaxLength = 15;
+            }
+
+
+            txtVisor.Clear();
+            txtVisor.Focus();
+
+
+        }
+
         private void btvVirgula_Click(object sender, EventArgs e)
         {
             System.Windows.Forms.Button button = (System.Windows.Forms.Button)sender;
@@ -59,5 +98,97 @@ namespace Calculadora
                 button.Enabled = false; // Desativa o botão após o clique
             }
         }
+
+        private void btnApagar_Click(object sender, EventArgs e)
+        {
+            //Captura o texto atual do txtbox
+            string texto = txtVisor.Text;
+
+            //Verifica se o texto não está vazio
+            if (!string.IsNullOrEmpty(texto))
+            {
+                // Remove o último caractere
+                txtVisor.Text = texto.Substring(0, texto.Length - 1);
+            }
+            
+        }
+
+        private void btnCorrige_Click(object sender, EventArgs e)
+        {
+            txtSegundoVisor.Clear();
+            txtVisor.Clear();
+            txtVisor.Focus();
+            primeiro = 0;
+            segundo = 0;
+            resultado = 0;
+        }
+
+        private void btnMult_Click(object sender, EventArgs e)
+        {
+            if (resultado == 0)
+            {
+                primeiro = Decimal.Parse(txtVisor.Text);
+                txtSegundoVisor.Text = primeiro.ToString() + "*";
+                txtVisor.Text = "";
+                txtVisor.Focus();
+            }
+            else
+            {
+                primeiro = resultado;
+                txtSegundoVisor.Text = primeiro.ToString() + "*";
+            }
+        }
+
+        private void btnSub_Click(object sender, EventArgs e)
+        {
+            if (resultado == 0)
+            {
+                primeiro = Decimal.Parse(txtVisor.Text);
+                txtSegundoVisor.Text = primeiro.ToString() + "-";
+                txtVisor.Clear();
+                txtVisor.Focus();
+            }
+            else
+            {
+                primeiro = resultado;
+                txtSegundoVisor.Text = primeiro.ToString() + "-";
+            }
+        }
+
+        private void btnSoma_Click(object sender, EventArgs e)
+        {
+            if (resultado == 0)
+            {
+                primeiro = Decimal.Parse(txtVisor.Text);
+                txtSegundoVisor.Text = primeiro.ToString() + "+";
+                txtVisor.Text = "";
+                txtVisor.Focus();
+            }
+            else
+            {
+                primeiro = resultado;
+                txtSegundoVisor.Text = primeiro.ToString() + "+";
+            }
+        }
+
+        private void btnDiv_Click(object sender, EventArgs e)
+        {
+            if (resultado == 0)
+            {
+                primeiro = Decimal.Parse(txtVisor.Text);
+                txtSegundoVisor.Text = primeiro.ToString() + "/";
+                txtVisor.Text = "";
+                txtVisor.Focus();
+            }
+            else
+            {
+                primeiro = resultado;
+                txtSegundoVisor.Text = primeiro.ToString() + "/";
+            }
+            
+        }
+
+
+
     }
 }
