@@ -38,7 +38,6 @@
             this.btn8 = new System.Windows.Forms.Button();
             this.btn5 = new System.Windows.Forms.Button();
             this.btn2 = new System.Windows.Forms.Button();
-            this.btnC = new System.Windows.Forms.Button();
             this.btn9 = new System.Windows.Forms.Button();
             this.btn6 = new System.Windows.Forms.Button();
             this.btn3 = new System.Windows.Forms.Button();
@@ -52,12 +51,13 @@
             this.btnUMX = new System.Windows.Forms.Button();
             this.btnVirgula = new System.Windows.Forms.Button();
             this.btnIgual = new System.Windows.Forms.Button();
+            this.lblMsg = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtTela
             // 
             this.txtTela.Font = new System.Drawing.Font("Arial Narrow", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTela.Location = new System.Drawing.Point(9, 12);
+            this.txtTela.Location = new System.Drawing.Point(5, 12);
             this.txtTela.MaxLength = 17;
             this.txtTela.Multiline = true;
             this.txtTela.Name = "txtTela";
@@ -118,16 +118,18 @@
             this.btnApagar.TabIndex = 5;
             this.btnApagar.Text = "🠔";
             this.btnApagar.UseVisualStyleBackColor = true;
+            this.btnApagar.Click += new System.EventHandler(this.btnApagar_Click);
             // 
             // btnCE
             // 
             this.btnCE.Font = new System.Drawing.Font("Arial Narrow", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCE.Location = new System.Drawing.Point(69, 97);
             this.btnCE.Name = "btnCE";
-            this.btnCE.Size = new System.Drawing.Size(50, 50);
+            this.btnCE.Size = new System.Drawing.Size(106, 50);
             this.btnCE.TabIndex = 9;
             this.btnCE.Text = "CE";
             this.btnCE.UseVisualStyleBackColor = true;
+            this.btnCE.Click += new System.EventHandler(this.btnCE_Click);
             // 
             // btn8
             // 
@@ -161,16 +163,6 @@
             this.btn2.Text = "2";
             this.btn2.UseVisualStyleBackColor = true;
             this.btn2.Click += new System.EventHandler(this.AgregarNumero);
-            // 
-            // btnC
-            // 
-            this.btnC.Font = new System.Drawing.Font("Arial Narrow", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnC.Location = new System.Drawing.Point(125, 97);
-            this.btnC.Name = "btnC";
-            this.btnC.Size = new System.Drawing.Size(50, 50);
-            this.btnC.TabIndex = 13;
-            this.btnC.Text = "C";
-            this.btnC.UseVisualStyleBackColor = true;
             // 
             // btn9
             // 
@@ -310,6 +302,7 @@
             this.btnVirgula.TabIndex = 22;
             this.btnVirgula.Text = ",";
             this.btnVirgula.UseVisualStyleBackColor = true;
+            this.btnVirgula.Click += new System.EventHandler(this.btnVirgula_Click);
             // 
             // btnIgual
             // 
@@ -323,11 +316,23 @@
             this.btnIgual.UseVisualStyleBackColor = true;
             this.btnIgual.Click += new System.EventHandler(this.btnIgual_Click);
             // 
+            // lblMsg
+            // 
+            this.lblMsg.AutoSize = true;
+            this.lblMsg.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMsg.Location = new System.Drawing.Point(9, 64);
+            this.lblMsg.Name = "lblMsg";
+            this.lblMsg.Size = new System.Drawing.Size(240, 19);
+            this.lblMsg.TabIndex = 24;
+            this.lblMsg.Text = "Não é possivel dividir por zero";
+            this.lblMsg.Visible = false;
+            // 
             // FrmCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(323, 378);
+            this.Controls.Add(this.lblMsg);
             this.Controls.Add(this.btnIgual);
             this.Controls.Add(this.btnVirgula);
             this.Controls.Add(this.btnRaiz);
@@ -338,7 +343,6 @@
             this.Controls.Add(this.btnMult);
             this.Controls.Add(this.btnSub);
             this.Controls.Add(this.btnSoma);
-            this.Controls.Add(this.btnC);
             this.Controls.Add(this.btn9);
             this.Controls.Add(this.btn6);
             this.Controls.Add(this.btn3);
@@ -371,7 +375,6 @@
         private System.Windows.Forms.Button btn8;
         private System.Windows.Forms.Button btn5;
         private System.Windows.Forms.Button btn2;
-        private System.Windows.Forms.Button btnC;
         private System.Windows.Forms.Button btn9;
         private System.Windows.Forms.Button btn6;
         private System.Windows.Forms.Button btn3;
@@ -385,6 +388,7 @@
         private System.Windows.Forms.Button btnUMX;
         private System.Windows.Forms.Button btnVirgula;
         private System.Windows.Forms.Button btnIgual;
+        private System.Windows.Forms.Label lblMsg;
     }
 }
 

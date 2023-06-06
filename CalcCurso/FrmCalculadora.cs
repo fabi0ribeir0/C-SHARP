@@ -46,12 +46,41 @@ namespace CalcCurso
             {
                 numero1 = Math.Pow(numero1, 2);
                 txtTela.Text = numero1.ToString();
-            }            
+            }
+            else if (operador == '±')
+            {
+                numero1 = numero1 * (-1);
+                txtTela.Text = numero1.ToString();
+            }
             else
             {
                 txtTela.Clear();
             }            
 
+        }
+
+        private void btnApagar_Click(object sender, EventArgs e)
+        {
+            string texto = txtTela.Text;
+            if (!String.IsNullOrEmpty(texto))
+            {
+                txtTela.Text = texto.Substring(0, texto.Length - 1);
+            }
+        }
+
+        private void btnCE_Click(object sender, EventArgs e)
+        {
+            numero1 = 0;
+            numero2 = 0;
+            txtTela.Clear();
+        }
+
+        private void btnVirgula_Click(object sender, EventArgs e)
+        {
+            if (!txtTela.Text.Contains(','))
+            {
+                txtTela.Text += ",";
+            }
         }
 
         private void btnIgual_Click(object sender, EventArgs e)
@@ -78,8 +107,16 @@ namespace CalcCurso
             }
             else if (operador == '/')
             {
-                txtTela.Text = (numero1 / numero2).ToString();
-                numero1 = Convert.ToDouble(txtTela.Text);
+                if (numero2 != 0)
+                {
+                    txtTela.Text = (numero1 / numero2).ToString();
+                    numero1 = Convert.ToDouble(txtTela.Text);
+                }
+                else
+                {
+                    lblMsg.Visible = true;
+                    txtTela.Clear();
+                }                
             }
             else if (operador == '%')
             {
