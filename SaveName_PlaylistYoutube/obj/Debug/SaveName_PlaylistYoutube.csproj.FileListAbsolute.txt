@@ -1,0 +1,14 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\bin\Debug\SaveName_PlaylistYoutube.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\bin\Debug\SaveName_PlaylistYoutube.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\bin\Debug\SaveName_PlaylistYoutube.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\obj\Debug\SaveName_PlaylistYoutube.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\obj\Debug\SaveName_PlaylistYoutube.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\obj\Debug\SaveName_PlaylistYoutube.FrmPlaylist.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\obj\Debug\SaveName_PlaylistYoutube.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\obj\Debug\SaveName_PlaylistYoutube.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\obj\Debug\SaveName_PlaylistYoutube.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\obj\Debug\SaveName_PlaylistYoutube.csproj.CopyComplete
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\obj\Debug\SaveName_PlaylistYoutube.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\SaveName_PlaylistYoutube\obj\Debug\SaveName_PlaylistYoutube.pdb
