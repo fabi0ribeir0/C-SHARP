@@ -1,0 +1,11 @@
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\bin\Debug\AppTitulos.exe.config
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\bin\Debug\AppTitulos.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\bin\Debug\AppTitulos.pdb
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\obj\Debug\AppTitulos.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\obj\Debug\AppTitulos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\obj\Debug\AppTitulos.Principal.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\obj\Debug\AppTitulos.Properties.Resources.resources
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\obj\Debug\AppTitulos.csproj.GenerateResource.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\obj\Debug\AppTitulos.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\obj\Debug\AppTitulos.exe
+C:\Users\Fabio\Documents\Estudos\C-SHARP\AppTitulos\obj\Debug\AppTitulos.pdb
